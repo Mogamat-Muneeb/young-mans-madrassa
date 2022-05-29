@@ -1,5 +1,5 @@
 <template>
-  about
+  contact
 </template>
 
 <script>
